@@ -1,2 +1,2 @@
 # EarthShake
- 1 Hour Game
+A game made in just 1 hour
